@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "ConsoleApp1": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_TieredCompilation": "0",
+        "DOTNET_TC_QuickJit": "1",
+        "DOTNET_TC_QuickJitForLoops": "1",
+        "DOTNET_TieredPGO": "0"
+      }
+    }
+  }
+}
